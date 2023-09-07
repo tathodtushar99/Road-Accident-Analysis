@@ -95,6 +95,7 @@ Finally, we'll see which areas have the most accidents. This project is all abou
 Here is the Dashboard for Road Accident Analysis -
 
 
+
 ![image](https://github.com/tathodtushar99/Road-Accident-Analysis/assets/90443509/4234efc9-e79c-465a-8ac0-06fc53316a3b)
 
 
